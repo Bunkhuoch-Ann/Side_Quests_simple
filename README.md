@@ -6,3 +6,5 @@ Gambling like this will cause you everything, given the accuracy of the model of
 # Dark_matter_and_RC
 # Unit_normalization_for_3_body_simulation
 # Grass_project
+# Raindrop_experiment 
+It is a sub project of Grass project which I tried to estimate the distance to the observe falling raindrop. But this plan fail miserably due to the low time resolution video (at 60-fps) which is not sufficient for the accurate distance estimation. The initial velocity drives the motion blur and therefore contribute significantly to the error budget.
